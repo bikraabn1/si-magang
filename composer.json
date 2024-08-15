@@ -1,0 +1,16 @@
+{
+    "name": "bikra/composer",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Bikra\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Bikra123",
+            "email": "bikraabn@gmail.com"
+        }
+    ],
+    "require": {}
+}
